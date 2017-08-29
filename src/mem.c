@@ -1,11 +1,3 @@
-// This File:        mem.c
-// Other Files:      mem.h
-// Semester:         CS 354 Fall 2016
-//
-// Author:           Benjamin Lenington
-// Email:            lenington@wisc.edu
-// CS Login:         lenington
-
 #include <stdio.h>
 #include <unistd.h>
 #include <sys/types.h>
